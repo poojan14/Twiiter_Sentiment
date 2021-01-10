@@ -1,2 +1,2 @@
 # Twiiter_Sentiment
-Fine-grained sentiment analysison SMILE twitter dataset using BERT BASE model.
+Fine-grained sentiment analysis on SMILE twitter dataset using Bidirectional Encoder Representations from Transformers base model.
